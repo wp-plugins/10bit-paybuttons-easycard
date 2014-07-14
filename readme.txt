@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create payment buttons to accept credit cards payments withEasyCard 
+Create payment buttons to accept credit cards payments with EasyCard 
 == Description ==
 
 Create payment buttons to accept credit cards payments with EasyCard 
